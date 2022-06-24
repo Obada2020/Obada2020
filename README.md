@@ -21,7 +21,7 @@
 
 - 📫 How to reach me [obada.flutter@gmail.com](obada.flutter@gmail.com)
 
-- 🤲 Pray to Allah for me to get married **.**
+- 🤲 I hope to get engaged soon **.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
