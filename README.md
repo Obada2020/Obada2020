@@ -7,7 +7,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-- 🚀 I’m work for Warsha-Tec company 
+- 🚀 I’m work for MAPLIT - Maple Green Information Technology Professional IT Company specialized in Mobile application, AI, CRM, web application and Cloud in UAE 
 
 - 👦 I love using Software as a solution for every Problem **.**
 
