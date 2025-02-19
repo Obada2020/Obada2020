@@ -21,8 +21,6 @@
 
 - 📫 How to reach me [obada.flutter@gmail.com](obada.flutter@gmail.com)
 
-- 🤲 I hope to get engaged soon **.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alhalabi-obada-6b2a89290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/obada-alhalabi-743aa91a2/" height="30" width="40" /></a>
